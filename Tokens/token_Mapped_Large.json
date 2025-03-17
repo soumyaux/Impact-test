@@ -1,0 +1,32 @@
+{
+  "Button": {
+    "Full Padding": {
+      "$type": "number",
+      "$value": "{Padding.Pd2}"
+    },
+    "H-Padding": {
+      "$type": "number",
+      "$value": "{Padding.Pd3}"
+    },
+    "Icon Size": {
+      "$type": "number",
+      "$value": "{Size.Sz2}"
+    },
+    "Spacing": {
+      "$type": "number",
+      "$value": "{Spacing.Sp2}"
+    },
+    "V-Padding": {
+      "$type": "number",
+      "$value": "{Padding.Pd1}"
+    },
+    "radius": {
+      "$type": "number",
+      "$value": "{Radius.R3}"
+    }
+  },
+  "Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}
